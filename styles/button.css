@@ -1,0 +1,17 @@
+.secondary-button-grey {
+  overflow: hidden;
+  position: relative;
+  background-color: lightgray;
+  border: 2px solid white;
+  text-transform: uppercase;
+  color:white;
+}
+
+.secondary-button-white {
+  overflow: hidden;
+  position: relative;
+  background-color: white;
+  border: 2px solid lightgray;
+  text-transform: uppercase;
+  color: lightgray;
+}
